@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JohanBM
 - 👀 I’m interested in object-oriented programming
-- 🌱 I’m currently learning TI support
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning devweb
 - 📫 How to reach me jebm096@gmail.com
 
 <!---
